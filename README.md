@@ -1,2 +1,1 @@
-# Template for Telegram bot
-
+# indian-food-classify
